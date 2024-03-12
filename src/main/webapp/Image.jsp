@@ -14,11 +14,9 @@
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="Page2.jsp">Page 2</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="Page3.jsp">Page 3</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="image.jsp">View Pic</a>
-
 </h2>
-<h2>Hello World! - Page 2</h2>
+<img src="Pic2.jpg"  width="100%" height="500px" />
+
 </body>
 </html>
